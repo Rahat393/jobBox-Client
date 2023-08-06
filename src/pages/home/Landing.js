@@ -102,7 +102,7 @@ const Landing = () => {
               Find the perfect <br /> job for you
             </h1>
             <p id='hero-subtitle' className='mt-5 text-lg'>
-              Search your career opportunity through 12,800 jobs
+             Piki Search your career opportunity through 12,800 jobs
             </p>
             <div
               id='search-container'
